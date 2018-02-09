@@ -32,6 +32,8 @@ The following are troubleshooting tips for sign in problems.
 
 | Tool | Problem | Resolution / Workaround |
 |------|---------|------------|
+| All | You were not prompted to launch your tool of choice after opening the join page in the browser. | See [joining manually](getting-started.md#manually-joining). |
+| All | You would prefer to paste the join link directly into your tool rather than clicking on the web link. | See [joining manually](getting-started.md#manually-joining). |
 | All | You have [signed up](http://aka.ms/vsls-signup) for the private preview but are getting an error about not being accepted when you try to share. | Visual Studio Live Share is currently in a limited, private preview. During the preview period, you will need to be accepted into the program to share but not to join. Anyone may install the extension and join an accepted "host" as a "guest." Acceptances will occur in waves over the preview period and you will be notified once accepted. | 
 | All | You are getting a timeout or error about not being able to connect. | See [connectivity troubleshooting](#connectivity). |
 ## Connectivity
