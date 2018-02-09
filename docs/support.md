@@ -13,8 +13,8 @@ Have a question or feedback? There are many ways to contribute. We want to hear 
 Our docs may have what you need!
 
 - [Troubleshooting](troubleshooting.md)
-- [Quick start: Sharing](../welcome/welcome-owner.md) (after you've been accepted into the preview)
-- [Quick start: Joining](../welcome/welcome-joiner.md) (no need to sign up or be accepted in the preview)
+- [Quick start: Sharing](../welcome/welcome-owner.md)
+- [Quick start: Joining](../welcome/welcome-joiner.md)
 - [Getting started and managing collaboration sessions](getting-started.md)
 - [Visual Studio enabled features](collab-vs.md)
 - [Visual Studio Code enabled features](collab-vscode.md)
