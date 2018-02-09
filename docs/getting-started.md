@@ -91,7 +91,7 @@ If you're been accepted into the private limited preview (session hosts), **use 
 
 ### Troubleshooting
 
-Having issues signing in? Check out [troubleshooting](troubleshooting#sign-in).
+Having issues signing in? Check out [troubleshooting](troubleshooting.md#sign-in).
 
 ## Starting a collaboration session and sharing
 
@@ -132,7 +132,7 @@ That's it!!
 
 ### Troubleshooting
 
-Having issues with sharing? Check out [troubleshooting](troubleshooting#sharing-and-joining).
+Having issues with sharing? Check out [troubleshooting](troubleshooting.md#sharing-and-joining).
 
 ## Joining a collaboration session
 
@@ -183,7 +183,7 @@ That's it! You should be connected to the collaboration session momentarily.
 
 ### Troubleshooting
 
-Having issues with sharing? Check out [troubleshooting](troubleshooting#sharing-and-joining).
+Having issues with sharing? Check out [troubleshooting](troubleshooting.md#sharing-and-joining).
 
 ## Changing the Connection Mode
 
@@ -209,7 +209,7 @@ To change the mode:
 
 ### Troubleshooting
 
-Having issues with connectivity? Check out [troubleshooting](troubleshooting#connectivity).
+Having issues with connectivity? Check out [troubleshooting](troubleshooting.md#connectivity).
 
 ## What can I do with a collaboration session?
 
