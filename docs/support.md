@@ -18,6 +18,7 @@ Our docs may have what you need!
 - [Visual Studio enabled features](collab-vs.md)
 - [Visual Studio Code enabled features](collab-vscode.md)
 - [Summary of language and platform support](platform-support.md)
+- [Troubleshooting](troubleshooting.md)
 - [FAQ](http://aka.ms/vsls-faq)
 
 ## Issues and Requests

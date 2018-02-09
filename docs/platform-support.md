@@ -155,4 +155,5 @@ While most languages have some single file Intellisense support, there are some 
 - [Getting started and managing collaboration sessions](getting-started.md)
 - [Visual Studio enabled features](collab-vs.md)
 - [Visual Studio Code enabled features](collab-vscode.md)
+- [Troubleshooting](troubleshooting.md)
 - [FAQ](http://aka.ms/vsls-faq)
