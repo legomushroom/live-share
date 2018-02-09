@@ -12,13 +12,13 @@ Have a question or feedback? There are many ways to contribute. We want to hear 
 
 Our docs may have what you need!
 
+- [Troubleshooting](troubleshooting.md)
 - [Quick start: Sharing](../welcome/welcome-owner.md) (after you've been accepted into the preview)
 - [Quick start: Joining](../welcome/welcome-joiner.md) (no need to sign up or be accepted in the preview)
 - [Getting started and managing collaboration sessions](getting-started.md)
 - [Visual Studio enabled features](collab-vs.md)
 - [Visual Studio Code enabled features](collab-vscode.md)
 - [Summary of language and platform support](platform-support.md)
-- [Troubleshooting](troubleshooting.md)
 - [FAQ](http://aka.ms/vsls-faq)
 
 ## Issues and Requests
