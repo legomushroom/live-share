@@ -25,17 +25,20 @@ The following are troubleshooting tips for sign in problems.
 | VS Code | When signing in, the browser window appears and you are able to sign in, but once complete Visual Studio Code still shows that it is not signed in. | After signing in, click "Having trouble?" and follow the directions to enter a temporary user code into the tool. |
 | VS Code | When clicking sign-in or joining from a link when not signed in, no browser window appears to allow you to sign in. | Go to https://insiders.liveshare.vsengsaas.visualstudio.com/auth/login and sign in. After signing in, click "Having trouble?". Finally, follow the directions to enter a temporary user code into the tool. |
 | All | You are getting a timeout or error about not being able to connect. | See [connectivity troubleshooting](#connectivity). |
+| All | You signed up and were accepted into the preview using an email address not tied to a Microsoft work, school, or personal account or GitHub account. | A simple resolution is to add this email address as a secondary email to your GitHub account and sign in that way. VS Live Share simply validates that an accepted email is in your profile when you sign in with GitHub. (Note: Use Tools > Options > Live Share > User account to sign in via GitHub from Visual Studio.) If that won't work, send a mail to [vsls-feedback@microsoft.com](mailto:vsls-feedback@microsoft.com) and we will switch out your email address. |
+
 
 ## Sharing and Joining
 
 The following are troubleshooting tips for sign in problems.
 
-| Tool | Problem | Resolution / Workaround |
-|------|---------|------------|
-| All | You were not prompted to launch your tool of choice after opening the join page in the browser. | See [joining manually](getting-started.md#manually-joining). |
-| All | You would prefer to paste the join link directly into your tool rather than clicking on the web link. | See [joining manually](getting-started.md#manually-joining). |
-| All | You have [signed up](http://aka.ms/vsls-signup) for the private preview but are getting an error about not being accepted when you try to share. | Visual Studio Live Share is currently in a limited, private preview. During the preview period, you will need to be accepted into the program to share but not to join. Anyone may install the extension and join an accepted "host" as a "guest." Acceptances will occur in waves over the preview period and you will be notified once accepted. | 
-| All | You are getting a timeout or error about not being able to connect. | See [connectivity troubleshooting](#connectivity). |
+| Problem | Resolution / Workaround |
+|---------|------------|
+| As a guest, you were not prompted / able to launch VS / VS Code after opening the join page in the browser. | See [joining manually](getting-started.md#manually-joining). |
+| As a guest, you would prefer to paste the join link directly into VS / VS Code rather than clicking on the web link. | See [joining manually](getting-started.md#manually-joining). |
+| You have [signed up](http://aka.ms/vsls-signup) for the private preview but are getting an error about not being accepted when you try to share. | You need to be accepted into the preview to share as a "host" but not to join as a "guest". Preview acceptances will occur in waves over the preview period and you will be notified by email once accepted. <br /><br /> In addition, be sure you've signed in to Visual Studio or Visual Studio Code using credentials associated with the email addres you used to sign up. See [sign in trobuleshooting](#sign-in) for more information.  | 
+| You are getting a timeout or error about not being able to connect. | See [connectivity troubleshooting](#connectivity). |
+
 ## Connectivity
 
 The information below can help you troubleshoot if you're having problems related to connectivity or timeouts when signing in, sharing, or joining. 
