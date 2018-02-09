@@ -35,7 +35,7 @@ The following are troubleshooting tips for sign in problems.
 |----------------|------------|
 | As a guest, you <strong>were not prompted / able to launch VS / VS Code</strong> after opening the join page in the browser. | See [joining manually](getting-started.md#manually-joining). |
 | As a guest, you would prefer to <strong>paste the join link directly into VS / VS Code</strong> rather than clicking on the web link. | See [joining manually](getting-started.md#manually-joining). |
-| You have [signed up](http://aka.ms/vsls-signup) for the private preview but are getting an <strong>error about not being accepted</strong> when you try to share. | You need to be accepted into the preview to share as a "host" but not to join as a "guest". Preview acceptances will occur in waves over the preview period and you will be notified by email once accepted. <br /><br /> In addition, be sure you've signed in to Visual Studio or Visual Studio Code using credentials associated with the email addres you used to sign up. See [sign in trobuleshooting](#sign-in) for more information.  | 
+| You have [signed up](http://aka.ms/vsls-signup) for the private preview but are getting an <strong>error about not being accepted</strong> when you try to share. | You need to be accepted into the preview to share as a "host" but not to join as a "guest". Preview acceptances will occur in waves over the preview period and you will be notified by email once accepted. <br /><br /> In addition, be sure you've signed in to Visual Studio or Visual Studio Code using credentials associated with the email address you used to sign up. See [sign in trobuleshooting](#sign-in) for more information.  | 
 | You are getting a timeout or error about not being able to connect. | See [connectivity troubleshooting](#connectivity). |
 
 ## Connectivity
@@ -71,7 +71,7 @@ VS Code (substitue **VERSION** for the extension version):
 - **macOS:** $HOME/.vscode-insiders/extensions/ms-vsliveshare.vsliveshare-*VERSION*/dotnet_modules/osx.10.10-x64/vsls-agent
 
 Visual Studio:  
-- Run a search for vsls-agent.exe in your VS install locaiton under **IDE\Extensions**
+- Run a search for vsls-agent.exe in your VS install location under **IDE\Extensions**
 - The VS install location is typically C:\Program Files (x86)\Microsoft Visual Studio\Preview\\*EDITION* where **EDITION** is Community, Enterprise, etc 
 
 ## More Info
